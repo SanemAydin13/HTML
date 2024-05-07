@@ -1,0 +1,23 @@
+p{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    padding-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
